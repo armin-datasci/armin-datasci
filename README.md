@@ -10,7 +10,7 @@ Computer Engineering graduate and Data Analytics Bootcamp participant with hands
 - **Business Intelligence:** Power BI, Power Query, DAX, Tableau, Grafana
 - **Databases:** SQL Server, SSMS, SQL
 - **Visualization:** Matplotlib, Seaborn, Power BI
-- **Machine Learning:** Scikit-learn, Prophet and Time-Series based Models
+- **Machine Learning:** Scikit-learn, Prophet and Time-Series Models
 - **Tools:** Git, GitHub, Docker, Jupyter Notebook
 
 ## Featured Project Areas
