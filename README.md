@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Armin Khosravi Karchi 👋
 
-<!--
-**armin-datasci/armin-datasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Data Analyst
 
-Here are some ideas to get you started:
+Computer Engineering graduate and Data Analytics Bootcamp participant with hands-on experience in data cleaning, exploratory data analysis, dashboard development, SQL querying, statistical analysis, and time-series forecasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Data Analysis:** Python, Pandas, NumPy, Excel
+- **Business Intelligence:** Power BI, Power Query, DAX, Tableau, Grafana
+- **Databases:** SQL Server, SSMS, SQL
+- **Visualization:** Matplotlib, Seaborn, Power BI
+- **Machine Learning:** Scikit-learn, Prophet
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## Featured Project Areas
+
+- Power BI dashboard development
+- SQL-based business analysis
+- Time-series analysis and forecasting
+- Exploratory data analysis and data mining
+- Data visualization and storytelling
+
+## Education
+
+**B.Sc. in Computer Engineering – Software**  
+Islamic Azad University, Najafabad Branch
+
+## Current Training
+- 🔭 I’m currently participating in Data Analytics Bootcamp 3 run by MCI Academy
+
+**Data Analytics Bootcamp 3**  
+MCI Academy | 2026
+
+## Contact
+
+- Email: thisisarminks@gmail.com
+- GitHub: [armin-datasci](https://github.com/armin-datasci)
