@@ -6,12 +6,12 @@ Computer Engineering graduate and Data Analytics Bootcamp participant with hands
 
 ## Technical Skills
 
-- **Data Analysis:** Python, Pandas, NumPy, Excel
+- **Data Analysis:** Python, NumPy, pandas, Excel
 - **Business Intelligence:** Power BI, Power Query, DAX, Tableau, Grafana
 - **Databases:** SQL Server, SSMS, SQL
 - **Visualization:** Matplotlib, Seaborn, Power BI
-- **Machine Learning:** Scikit-learn, Prophet
-- **Tools:** Git, GitHub, Jupyter Notebook
+- **Machine Learning:** Scikit-learn, Prophet and Time-Series based Models
+- **Tools:** Git, GitHub, Docker, Jupyter Notebook
 
 ## Featured Project Areas
 
