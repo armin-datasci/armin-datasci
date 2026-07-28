@@ -27,7 +27,6 @@ Computer Engineering graduate and Data Analytics Bootcamp participant with hands
 Islamic Azad University, Najafabad Branch
 
 ## Current Training
-- 🔭 I’m currently participating in Data Analytics Bootcamp 3 run by MCI Academy
 
 **Data Analytics Bootcamp 3**  
 MCI Academy | 2026
