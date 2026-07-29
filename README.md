@@ -2,24 +2,24 @@
 
 ## Junior Data Analyst
 
-Computer Engineering graduate and Data Analytics Bootcamp participant with hands-on experience in data cleaning, exploratory data analysis, dashboard development, SQL querying, statistical analysis, and time-series forecasting.
+Computer Engineering graduate and Data Analytics bootcamp participant with hands-on experience in data cleaning, exploratory data analysis, data visualization and storytelling, dashboard development, SQL querying, statistical analysis, and time-series forecasting.
 
 ## Technical Skills
 
-- **Data Analysis:** Python, NumPy, pandas, Excel
-- **Business Intelligence:** Power BI, Power Query, DAX, Tableau, Grafana
+- **Data Analysis:** Python, NumPy, pandas, Excel, Power Query & DAX
+- **Business Intelligence:** Power BI, Grafana, and Tableau
 - **Databases:** SQL Server, SSMS, SQL
 - **Visualization:** Matplotlib, Seaborn, Power BI
-- **Machine Learning:** Scikit-learn, Prophet and Time-Series Models
-- **Tools:** Git, GitHub, Docker, Jupyter Notebook
+- **Machine Learning:** Scikit-learn, linear regression, SVM, Prophet and Time-Series Models
+- **Tools:** Git & GitHub, Docker, Jupyter Notebook
 
 ## Featured Project Areas
 
-- Power BI dashboard development
-- SQL-based business analysis
-- Time-series analysis and forecasting
-- Exploratory data analysis and data mining
-- Data visualization and storytelling
+- Power BI dashboard development (Mortgage Loan)
+- SQL-based business analysis (World Cup)
+- Time-series analysis and forecasting (Energy consumption)
+- Exploratory data analysis and data mining (Insurance claim)
+- Data visualization and storytelling (Vaccine efficacy rate)
 
 ## Education
 
@@ -28,7 +28,7 @@ Islamic Azad University, Najafabad Branch
 
 ## Current Training
 
-**Data Analytics Bootcamp 3**  
+**Data Analytics bootcamp 3**  
 MCI Academy | 2026
 
 ## Contact
