@@ -15,6 +15,7 @@ Computer Engineering graduate and Data Analytics bootcamp participant with hands
 
 ## Featured Project Areas
 
+- Iran Housing Market Intelligence (IHMI) Capstone Project
 - Power BI dashboard development (Mortgage Loan)
 - SQL-based business analysis (World Cup)
 - Time-series analysis and forecasting (Energy Consumption)
