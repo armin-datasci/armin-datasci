@@ -8,7 +8,7 @@ Computer Engineering graduate focused on turning raw data into decision-ready an
 
 ### [Iran Housing Market Intelligence](https://github.com/armin-datasci/iran-housing-market-intelligence)
 
-**Best Project Award — MCI Academy**
+**Best Project Award — MCI Academy, Summer 2026**
 
 End-to-end analytics of **1,000,000 real-estate listings**, covering governed data layers, data-quality and pipelines' validation, market intelligence, statistical modeling, and interactive analytics.
 
