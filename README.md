@@ -21,7 +21,6 @@ End-to-end analytics of **1,000,000 real-estate listings**, covering governed da
 
 - **Breast Ultrasound Segmentation with U-Net** — Deep learning and medical image segmentation
 - **Mortgage Analytics Dashboard** — Business intelligence and Power BI
-- **Linear Models from Scratch** — Gradients, optimization, and regression fundamentals
 
 ## Core Stack
 
