@@ -1,38 +1,39 @@
 # Hi, I'm Armin Khosravi Karchi 👋
 
-## Junior Data Analyst
+**Data Analyst | Python · SQL · Power BI**
 
-Computer Engineering graduate and Data Analytics bootcamp participant with hands-on experience in data cleaning, exploratory data analysis, data visualization and storytelling, dashboard development, SQL querying, statistical analysis, and time-series forecasting.
+Computer Engineering graduate focused on turning raw data into decision-ready analytics through data engineering, statistical analysis, machine learning, and business intelligence.
 
-## Technical Skills
+## 🏆 Featured Project
 
-- **Data Analysis:** Python, NumPy, pandas, Excel, Power Query & DAX
-- **Business Intelligence:** Power BI, Grafana, and Tableau
-- **Databases:** SQL Server, SSMS, SQL
-- **Visualization:** Matplotlib, Seaborn, Power BI
-- **Machine Learning and Deep Learning:** Scikit-learn, linear regression, SVM, CNN (U-Net), Time-Series Models (Prophet)
-- **Tools:** Git & GitHub, Docker, Jupyter Notebook
+### [Iran Housing Market Intelligence](https://github.com/armin-datasci/iran-housing-market-intelligence)
 
-## Featured Project Areas
+**Best Project Award — MCI Academy**
 
-- Iran Housing Market Intelligence (IHMI) Capstone Project
-- Power BI dashboard development (Mortgage Loan)
-- SQL-based business analysis (World Cup)
-- Time-series analysis and forecasting (Energy Consumption)
-- Exploratory data analysis and data mining (Insurance Car)
-- Data visualization and storytelling (Vaccine Efficacy Rate)
+End-to-end analytics of **1,000,000 real-estate listings**, covering governed data layers, data-quality and pipelines' validation, market intelligence, statistical modeling, and interactive analytics.
 
-## Education
+**Stack:** Python · Polars · pandas · scikit-learn · Power BI · FastAPI
 
-**Bachelor's degree in Computer Engineering – Software**  
-Islamic Azad University, Najafabad Branch
+[Live Project](https://amirrezaafzali.github.io/iran-housing-market-intelligence/) ·
+[Repository](https://github.com/armin-datasci/iran-housing-market-intelligence) .
 
-## Current Training
+## Selected Work
 
-**Data Analytics Bootcamp 3**  
-MCI Academy | 2026
+- **Breast Ultrasound Segmentation with U-Net** — Deep learning and medical image segmentation
+- **Mortgage Analytics Dashboard** — Business intelligence and Power BI
+- **Linear Models from Scratch** — Gradients, optimization, and regression fundamentals
+
+## Core Stack
+
+**Python · NumPy. Polars. pandas. matplotlib. seaborn. scikit-learn. SQL · SQL Server · Power BI · Git · Docker**
+
+## Background
+
+**B.Sc. Computer Engineering — Software**  
+Islamic Azad University
+
+**Data Analytics Bootcamp — MCI Academy, Summer 2026**
 
 ## Contact
 
-- Email: thisisarminks@gmail.com
-- GitHub: [armin-datasci](https://github.com/armin-datasci)
+[GitHub](https://github.com/armin-datasci) · [Email](mailto:thisisarminks@gmail.com)
