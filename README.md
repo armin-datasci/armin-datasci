@@ -35,4 +35,4 @@ Islamic Azad University
 
 ## Contact
 
-[GitHub](https://github.com/armin-datasci) · [Email](mailto:thisisarminks@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/armin-khosravi/) . [GitHub](https://github.com/armin-datasci) · [Email](mailto:thisisarminks@gmail.com)
