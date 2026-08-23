@@ -1,6 +1,6 @@
 # Hi, I'm Armin Khosravi Karchi 👋
 
-**Data Analyst | Python · SQL · Power BI**
+**Data Analyst | Python stack | Business Intelligence**
 
 Computer Engineering graduate focused on turning raw data into decision-ready analytics through data engineering, statistical analysis, machine learning, and business intelligence.
 
