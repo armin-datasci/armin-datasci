@@ -24,14 +24,14 @@ End-to-end analytics of **1,000,000 real-estate listings**, covering governed da
 
 ## Core Stack
 
-**Python · NumPy. Polars. pandas. matplotlib. seaborn. scikit-learn. SQL · SQL Server · Power BI · Git · Docker**
+**Python . Machine Learning . BI and Software deployment tools**
 
 ## Background
 
 **B.Sc. Computer Engineering — Software**  
-Islamic Azad University
+I.A.U.N
 
-**Data Analytics Bootcamp — MCI Academy, Summer 2026**
+**Participant in Data Analytics Bootcamp — MCI Academy, Summer 2026**
 
 ## Contact
 
