@@ -31,7 +31,7 @@ End-to-end analytics of **1,000,000 real-estate listings**, covering governed da
 **B.Sc. Computer Engineering — Software**  
 I.A.U.N
 
-**Participant in Data Analytics Bootcamp — MCI Academy, Summer 2026**
+**Data Analytics Bootcamp — MCI Academy, Summer 2026**
 
 ## Contact
 
