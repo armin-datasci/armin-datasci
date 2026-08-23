@@ -12,7 +12,7 @@ Computer Engineering graduate focused on turning raw data into decision-ready an
 
 End-to-end analytics of **1,000,000 real-estate listings**, covering governed data layers, data-quality and pipelines' validation, market intelligence, statistical modeling, and interactive analytics.
 
-**Stack:** Python . Polars . Parquet . scikit-learn . MiniBatchKMeans . point-in-polygon . Matplotlib . Power BI . Google Colab . Render
+**Stack: Python . Polars . Parquet . scikit-learn . MiniBatchKMeans . point-in-polygon . Matplotlib . Power BI . Google Colab . Render**
 
 [Live Project](https://amirrezaafzali.github.io/iran-housing-market-intelligence/) ·
 [Repository](https://github.com/armin-datasci/iran-housing-market-intelligence) .
