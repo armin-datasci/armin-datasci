@@ -31,7 +31,7 @@ End-to-end analytics of **1,000,000 real-estate listings**, covering governed da
 **B.Sc. Computer Engineering- Software — Isfahan, Summer 2020**  
 I.A.U.N
 
-**Data Analytics Bootcamp — Tehran, Summer 2026**
+**Data Analytics Bootcamp — Tehran, Summer 2026**  
 MCI Academy
 
 ## Contact
